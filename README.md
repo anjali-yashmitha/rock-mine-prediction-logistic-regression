@@ -1,5 +1,7 @@
 # SONAR Rock vs Mine Prediction
 
+<img src="images/wall.jpg" alt="SONAR Wallpaper" width="100%" style="margin-bottom: 20px;">
+
 ![SONAR Banner](https://img.shields.io/badge/Machine%20Learning-SONAR%20Classification-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-brightgreen)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange)
