@@ -64,10 +64,6 @@ The model successfully classifies underwater objects as rocks or mines based on 
 - Feature engineering to improve accuracy
 - Implement cross-validation for more robust evaluation
 
-## ⚖️ License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 _Note: This project is for educational purposes only and demonstrates the application of machine learning in underwater object classification._
